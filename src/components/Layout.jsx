@@ -63,7 +63,7 @@ export default function Layout({ children }) {
           </span>
 
           <span className="text-xl font-bold tracking-wide text-cyan-400">
-            MashupLab
+            Mashup Intelligence
           </span>
         </Link>
 
@@ -124,10 +124,10 @@ export default function Layout({ children }) {
       <footer className="bg-slate-900/80 border-t border-slate-800 py-4 text-sm text-slate-400 flex items-center justify-center gap-3">
         <img
           src="/dj-icon.svg"
-          alt="MashupLab icon"
+          alt="Mashup Intelligence icon"
           className="hover-spin cursor-pointer h-6 w-6"
         />
-        <p className="leading-none">MashupLab · Recomendador de Mashups</p>
+        <p className="leading-none">Mashup Intelligence · Recomendador de Mashups</p>
       </footer>
     </div>
   );
